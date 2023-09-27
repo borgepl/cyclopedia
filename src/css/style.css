@@ -1,0 +1,12 @@
+.heading1 {
+    color: blueviolet;
+    font-size: large;
+}
+
+.h1 {
+ color: chocolate;
+}
+
+.rounded {
+    border-radius: 50px!important;
+}
